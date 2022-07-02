@@ -1,0 +1,15 @@
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\GameBackend.exe
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\GameBackend.deps.json
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\GameBackend.runtimeconfig.json
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\GameBackend.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\ref\GameBackend.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\GameBackend.pdb
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.csproj.AssemblyReference.cache
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.AssemblyInfoInputs.cache
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.AssemblyInfo.cs
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.csproj.CoreCompileInputs.cache
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\ref\GameBackend.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.pdb
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\GameBackend.genruntimeconfig.cache

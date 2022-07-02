@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84d0f4a3-c548-43e4-8cdd-af158bc366eb": {
+      "ProjectGuid": "84d0f4a3-c548-43e4-8cdd-af158bc366eb",
+      "DisplayName": "GameBackend",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

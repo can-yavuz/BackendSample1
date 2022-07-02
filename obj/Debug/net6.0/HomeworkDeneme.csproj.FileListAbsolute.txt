@@ -1,0 +1,15 @@
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.csproj.AssemblyReference.cache
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.AssemblyInfoInputs.cache
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.AssemblyInfo.cs
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\HomeworkDeneme.exe
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\HomeworkDeneme.deps.json
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\HomeworkDeneme.runtimeconfig.json
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\HomeworkDeneme.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\ref\HomeworkDeneme.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\bin\Debug\net6.0\HomeworkDeneme.pdb
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\ref\HomeworkDeneme.dll
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.pdb
+C:\Users\Can Yavuz\Desktop\C# Lessons\HomeworkDeneme\obj\Debug\net6.0\HomeworkDeneme.genruntimeconfig.cache
